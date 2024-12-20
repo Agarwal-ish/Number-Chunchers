@@ -62,12 +62,6 @@
   
 ![ Image ](https://github.com/Agarwal-ish/Number-Chunchers/blob/main/images/img2.jpg)
 
-
- <h4>» BoxPlot  </h4>
- 
- 
- ![images](https://github.com/Agarwal-ish/Number-Chunchers/blob/main/images/img5.jpg)
-
  
  ##
 
