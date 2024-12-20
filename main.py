@@ -416,7 +416,7 @@ st.markdown(
     </ul>
     
     <p style="font-size: 14px;">🛠️ Developed with ❤️ by the Number Crunchers Team.</p>
-    <p style="font-size: 18px;">For feedback or inquiries, email us at <a href="mailto:team@numbercrunchers.com">team@recyclerangers.com</a></p>
+    <p style="font-size: 18px;">For feedback or inquiries, email us at <a href="mailto:krishnatiwarit549@gmail.com">krishnatiwarit549@gmail.com</a></p>
     
     <p><small>© 2024 Number Crunchers. All rights reserved.</small></p>
     
