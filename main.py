@@ -12,7 +12,7 @@ import PreProcessor
 # Streamlit App Header
 st.set_page_config(page_title="Crime Analysis Dashboard", page_icon="🔍")
 
-# st.image("@@", width=130, use_column_width=False) 
+
 st.title("🔍 Crime Analysis Dashboard")
 st.subheader("Analyze and visualize crime data to uncover insights.")
 st.write("---")
@@ -24,7 +24,7 @@ df = pd.read_csv("crime_cleaned.csv", parse_dates=['incident_datetime', 'created
 
 # Sidebar filters
 
-# st.sidebar.image("logo.jpg", width=280)
+st.sidebar.image("logo.jpg", width=270)
 st.sidebar.title("🔍 Filters")
 
 # Use PreProcessor's multiselect for city and year filtering
