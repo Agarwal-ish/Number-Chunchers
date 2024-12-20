@@ -16,7 +16,6 @@
 
 <div align="center">
 
- <h4>logo :"Number Crunchers "</h4>
 
 <img src="https://github.com/Agarwal-ish/Number-Chunchers/blob/main/logo.jpg" width="300" height="180" alt="Dashboard">
 
