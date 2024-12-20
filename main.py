@@ -111,20 +111,39 @@ st.write("---")
 
 #========================================================================================================#
 
-# Crimes by Hour of Day
+import plotly.graph_objects as go
 
+# Crimes by Hour of Day
 st.subheader("🕒 Crimes by Hour of Day")
 df_hourly = filter_df.groupby('hour_of_day').size().reset_index(name="Total Crime")
 
-# Create a bar plot for crimes by hour of day using matplotlib
-fig2, ax2 = plt.subplots(figsize=(12, 6))
-ax2.bar(df_hourly['hour_of_day'], df_hourly['Total Crime'], color=sns.color_palette("coolwarm", len(df_hourly)))
-ax2.set_xlabel('Hour of Day', fontsize=14)
-ax2.set_ylabel('Total Crimes', fontsize=14)
-ax2.set_title('Crimes by Hour of Day', fontsize=16, weight='bold')
-ax2.grid(True, axis='y', linestyle='--', alpha=0.7)
-st.pyplot(fig2)
+# Create a bar plot for crimes by hour of day using plotly express
+fig2 = px.bar(df_hourly, x='hour_of_day', y='Total Crime', 
+              labels={'hour_of_day': 'Hour of Day', 'Total Crime': 'Total Crimes'},
+              color='hour_of_day', 
+              color_continuous_scale='RdBu')
 
+
+window_size = 3  
+df_hourly['Smooth'] = df_hourly['Total Crime'].rolling(window=window_size, center=True).mean()
+
+
+fig2.add_trace(go.Scatter(x=df_hourly['hour_of_day'], 
+                         y=df_hourly['Smooth'], 
+                         mode='lines', 
+                         line=dict(color='purple', width=3, dash='dash')))
+
+
+fig2.update_layout(
+    
+    xaxis_title="Hour of Day",
+    yaxis_title="Total Crimes",
+    template='plotly_dark',  
+    showlegend=True
+)
+
+# Show the plot in Streamlit
+st.plotly_chart(fig2)
 # Summary for Crimes by Hour of Day
 st.markdown("""
     <div style='font-size:18px;'>
