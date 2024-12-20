@@ -11,21 +11,14 @@
   
  </div>
 
-<div align="center">
-<h3 align="left">👷Contributors :</h3>
 
-<h4>✦ Ishita Agarwal (https://github.com/Agarwal-ish) </h4>
-<h4>✦ Krishna Tiwari (https://github.com/Kkri24) </h4>
-<h4>✦ Ashutosh Upadhyay (https://github.com/Ashutosh1020) </h4>
-
-</div>
 
 <br/>
 <div align="center">
 
  <h4>logo :"Number Crunchers "</h4>
 
-![logo](https://)
+<img src="https://github.com/Agarwal-ish/Number-Chunchers/blob/main/logo.jpg" width="300" height="180" alt="Dashboard">
 
  ### 🌐 Streamlit Link : https://streamlit.app/
  
@@ -73,6 +66,14 @@ git clone https://github.com/Agarwal-ish/Number-Chunchers.git
 cd Number-Chunchers
 ```
 
+<div align="center">
+<h3 align="left">👷Contributors :</h3>
+
+<h4>✦ Ishita Agarwal (https://github.com/Agarwal-ish) </h4>
+<h4>✦ Krishna Tiwari (https://github.com/Kkri24) </h4>
+<h4>✦ Ashutosh Upadhyay (https://github.com/Ashutosh1020) </h4>
+
+</div>
 ### Request  🤗
 <div>
 <li>If You find any bug then please create an issue we love to solve that</li>
