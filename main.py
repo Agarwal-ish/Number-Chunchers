@@ -58,7 +58,7 @@ fig1 = px.bar(
     crime_summary, x="city", y="Total Crime", color="incident_year",
     barmode="group",
     labels={"Total Crime": "Total Crimes", "city": "City"},
-    color_discrete_sequence=px.colors.qualitative.Vivid
+    color_discrete_sequence=["#636EFA", "#EF553B", "#00CC96", "#AB63FA"]
 )
 fig1.update_layout(
     xaxis_title="City", 
@@ -97,7 +97,7 @@ df_yearly = filter_df.groupby('incident_year').size().reset_index(name="Total Cr
 fig1 = px.line(
     df_yearly, x='incident_year', y='Total Crime',
     labels={"Total Crime": "Total Crimes", "incident_year": "Year"},
-    color_discrete_sequence=['#99FFFF']
+    color_discrete_sequence=['#3333FF']
 )
 st.plotly_chart(fig1, use_container_width=True)
 
@@ -211,8 +211,8 @@ fig5 = px.pie(
 )
 
 fig5.update_layout(
-    width=800, 
-    height=600   
+    width=700, 
+    height=500   
 )
 st.plotly_chart(fig5, use_container_width=True)
 
@@ -248,7 +248,8 @@ fig6 = px.line(
     line_shape='linear', 
     line_dash_sequence=['solid'],  
     labels={'incident_date': 'Date', 'incident_count': 'Number of Incidents'},
-    template='plotly_white'  
+    template='plotly_white',  
+    color_discrete_sequence=["#6666FF"]
 )
 
 # Customize the layout for better aesthetics
@@ -282,7 +283,11 @@ fig7 = px.box(
     title='📅 Boxplot of Crime Incidents by Hour of Day',
     labels={'hour_of_day': 'Hour of Day'},
     color='hour_of_day',
-    color_discrete_sequence=px.colors.sequential.Plasma
+    color_discrete_sequence=px.colors.sequential.Plasma,
+    points="all"
+)
+fig7.update_traces(
+    marker=dict(size=10)  # Increase the dot size
 )
 fig7.update_layout(
     title_font_size=25,
@@ -292,7 +297,7 @@ fig7.update_layout(
     yaxis_title_font_size = 19,
     xaxis_tickfont_size=18,
     yaxis_tickfont_size=18,
-    plot_bgcolor='#C0C0C0',  
+    plot_bgcolor='#E0E0E0',  
 
 )
 st.plotly_chart(fig7)
@@ -319,7 +324,7 @@ fig8 = px.line(
     labels={'incident_month': 'Month', 'incident_count': 'Number of Incidents'},
     line_shape='linear',
     markers=True,
-    color_discrete_sequence=['#99FFFF']
+    color_discrete_sequence=['#3333FF']
 )
 
 fig8.update_layout(
@@ -399,21 +404,21 @@ st.write("---")
 
 st.markdown(
     """
-    <footer style='text-align: center; padding: 10px 20px; border-top: 5px solid #ddd; font-size: 19px; color: #dcdcdc; margin-top:50px;'>
+    <footer style='text-align: center; padding: 10px 20px; border-top: 5px solid #ddd; font-size: 19px;  margin-top:50px;'>
     
     <strong>Project Code:</strong> [B41_DA_009_Number Crunchers] 
     <p><strong>Credits :</strong>
     The following team members contributed to the collaborative development of this project:</p>
-    <ul style="list-style-type: none; padding: 0; font-size: 19px; color: #dcdcdc;">
+    <ul style="list-style-type: none; padding: 0; font-size: 19px;">
         <li>🔹 <strong>Ishita :</strong> Compilation of Report and Final Presentation</li>
         <li>🔹 <strong>Krishna :</strong> Data Analysis and Insight Extraction</li>
         <li>🔹 <strong>Ashutosh :</strong> Visualization of Data and Dashboard Design</li>
     </ul>
     
-    <p style="font-size: 14px; color: #dcdcdc;">🛠️ Developed with ❤️ by the Number Crunchers Team.</p>
-    <p style="font-size: 18px; color: #dcdcdc;">For feedback or inquiries, email us at <a href="mailto:team@numbercrunchers.com" style="color: #66b3ff;">team@recyclerangers.com</a></p>
+    <p style="font-size: 14px;">🛠️ Developed with ❤️ by the Number Crunchers Team.</p>
+    <p style="font-size: 18px;">For feedback or inquiries, email us at <a href="mailto:team@numbercrunchers.com">team@recyclerangers.com</a></p>
     
-    <p><small style="color: #aaa;">© 2024 Number Crunchers. All rights reserved.</small></p>
+    <p><small>© 2024 Number Crunchers. All rights reserved.</small></p>
     
     </footer>
     """,
