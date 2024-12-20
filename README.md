@@ -28,13 +28,54 @@
 <h3 align="left"> About This Project 📖</h3>
 
  <div aling="left">
+ <h3>Crime Analysis</h3>
 
-  <p>   Description About Project     </p>
+  <p>   The Crime Analysis Dashboard is an interactive platform designed to analyze and visualize crime data dynamically. Built with Streamlit, it enables users to explore patterns, trends, and distributions of crimes across various regions and time periods. By leveraging powerful data visualization libraries such as matplotlib, seaborn, and plotly, this tool offers detailed insights into crime categories and geographical hotspots. The dashboard aims to assist policymakers, law enforcement, and researchers in making data-driven decisions to address and mitigate criminal activities effectively.     </p>
+
+ <h3>About the Dataset:</h3> 
+The (crime_cleaned.csv) dataset includes data on crime rates segmented by city, potentially covering various crime categories and yearly records. Each row represents a specific instance (e.g., a state in a particular year), and columns detail crime statistics and possibly other relevant demographic or geographical information.(e.g., incident_datetime, incident_description, city, incident_year	, latitude, longitude, parent_incident_type etc):<br>
+<h4>The datasets contain the following information:</h4>
+Rows:  26676   <br>
+Columns:  21 
+
+
+<h3>The project aims to:</h3>
+1. Understand crime distribution across City.<br>
+2. Identify any significant trends over time.<br>
+3. Visualize crime data to highlight areas needing policy focus or resource allocation.
+
+
+  <h3>Project Type</h3>
+  Data Analysis using Python Libraries
+
+  <h3>Directory Structure --></h3>
+  <h4>Video Walkthrough of the project</h4>
+
+  Video Walkthrough of the codebase
+
+  <h3>Features --></h3>
+  ✦ Crime trend analysis over various time periods.<br>
+  ✦ Heatmaps displaying geographical crime density.<br>
+  ✦ Dynamic visualizations using matplotlib, seaborn, and plotly.<br>
+  ✦ Categorization of crime types for granular insights.<br>
+  ✦ Temporal analysis of crimes (e.g., by year or month).
+
+ <h3>Design Decisions --></h3>
+<h4>Visualization Libraries :</h4> Used matplotlib and seaborn for static plots, and plotly for interactivity.
+Data Preparation: Relied on custom preprocessing modules for data cleaning and integration.
+Streamlit UI: Modularized design for separate analysis sections.
 
   </div>
 
-### Tech Stack 🛠
+ 
+### Technology Stack Stack 🛠
 ![cover](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
+- Pandas
+- Seaborn
+- Plotly.express
+- Matplotlib
+- Streamlit
+
 
 ##
 
@@ -74,7 +115,8 @@ cd Number-Chunchers
 <h4>✦ Ashutosh Upadhyay (https://github.com/Ashutosh1020) </h4>
 
 </div>
-### Request  🤗
+
+  # Request  🤗
 <div>
 <li>If You find any bug then please create an issue we love to solve that</li>
 <li>If you want to contribute to this project then feel free to make a pull request we love to merge your request</li>
