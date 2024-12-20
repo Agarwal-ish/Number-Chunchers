@@ -49,24 +49,24 @@
 <h4>» Dashboard </h4>
 
 
-![ Image]()
+![Image](https://github.com/Agarwal-ish/Number-Chunchers/blob/main/images/img7.jpg)
 
  
  <h4>»Filter Data by Crime Description </h4>
  
- ![ Image ]()
+ ![ Image ](https://github.com/Agarwal-ish/Number-Chunchers/blob/main/images/img6.jpg)
 
 
  
    <h4>» PieChart of Parent Incident Type Distribution </h4>
   
-![ Image ]()
+![ Image ](https://github.com/Agarwal-ish/Number-Chunchers/blob/main/images/img2.jpg)
 
 
  <h4>» BoxPlot  </h4>
  
  
- ![images]()
+ ![images](https://github.com/Agarwal-ish/Number-Chunchers/blob/main/images/img5.jpg)
 
  
  ##
