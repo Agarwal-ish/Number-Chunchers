@@ -27,7 +27,7 @@
 
 ![logo](https://)
 
- ## 🌐 Streamlit Link : https://streamlit.app/
+ ### 🌐 Streamlit Link : https://streamlit.app/
  
  </div>
 
@@ -40,12 +40,12 @@
 
   </div>
 
-## Tech Stack 🛠
+### Tech Stack 🛠
 ![cover](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
 
 ##
 
-## ScreenShots 📷
+### ScreenShots 📷
 <h4>» Dashboard </h4>
 
 
@@ -71,7 +71,7 @@
  
  ##
 
- ## Run Locally  💻
+ ### Run Locally  💻
 
 <h4>1. Clone the project </h4>
 
@@ -85,7 +85,7 @@ git clone https://github.com/Agarwal-ish/Number-Chunchers.git
 cd Number-Chunchers
 ```
 
-## Request  🤗
+### Request  🤗
 <div>
 <li>If You find any bug then please create an issue we love to solve that</li>
 <li>If you want to contribute to this project then feel free to make a pull request we love to merge your request</li>
@@ -95,7 +95,7 @@ cd Number-Chunchers
    <h4>  If you like this project then feel free to give Star 😅</h4>
    </div>
   
- ## Feedback / Contributing 🤝
+ ### Feedback / Contributing 🤝
  > Contributions are always welcome! Just raise an issue, and we will discuss it.
   > If you have any feedback, please reach out to us <a href="mailto: uashutosh309@gmail.com">Team Number Crunchers</a>
 
