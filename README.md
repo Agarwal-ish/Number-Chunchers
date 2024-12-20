@@ -46,21 +46,15 @@
 ##
 
 ### ScreenShots 📷
+
 <h4>» Dashboard </h4>
+<img src="https://github.com/Agarwal-ish/Number-Chunchers/blob/main/images/img7.jpg" width="700" height="300" alt="Dashboard">
 
+<h4>»Filter Data by Crime Description </h4>
+<img src="https://github.com/Agarwal-ish/Number-Chunchers/blob/main/images/img6.jpg" width="700" height="300" alt="Filter Data">
 
-![Image](https://github.com/Agarwal-ish/Number-Chunchers/blob/main/images/img7.jpg)
-
- 
- <h4>»Filter Data by Crime Description </h4>
- 
- ![ Image ](https://github.com/Agarwal-ish/Number-Chunchers/blob/main/images/img6.jpg)
-
-
- 
-   <h4>» PieChart of Parent Incident Type Distribution </h4>
-  
-![ Image ](https://github.com/Agarwal-ish/Number-Chunchers/blob/main/images/img2.jpg)
+<h4>» PieChart of Parent Incident Type Distribution </h4> 
+<img src="https://github.com/Agarwal-ish/Number-Chunchers/blob/main/images/img2.jpg" width="700" height="300" alt="Filter Data">
 
  
  ##
