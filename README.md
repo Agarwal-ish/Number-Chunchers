@@ -92,7 +92,7 @@ cd Number-Chunchers
  </div>
    
   <div align="center">
-   <h4>  If you like this project then feel free to give Star 😅</h4>
+   <h4>  If you like this project then feel free to give Star🌟🌟🌟🌟🌟 😅</h4>
    </div>
   
  ### Feedback / Contributing 🤝
