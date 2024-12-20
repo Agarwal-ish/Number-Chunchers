@@ -1,11 +1,11 @@
 <div align="center">
-<h1> Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="33"> there, we are <span style="color: #447ED5">Team Number Crunchers</span></h1>
+<h2> Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="33"> there, we are <span style="color: #447ED5">Team Number Crunchers</span></h2>
  
 </div>
 
 <div align="center">
        
- <h2>Block 41 - Construct Week Group Project</h2>
+ <h3>Block 41 - Construct Week Group Project</h3>
  <h3>Project Code : B41_DA_009_Number Crunchers </h3>
   <h3>Project Name : Number Crunchers</h3>
   
@@ -14,16 +14,16 @@
 <div align="center">
 <h3 align="left">👷Contributors :</h3>
 
-<h3>Ishita Agarwal (https://github.com/Agarwal-ish) </h3>
-<h3>Krishna Tiwari (https://github.com/Kkri24) </h3>
-<h3>Ashutosh Upadhyay (https://github.com/Ashutosh1020) </h3>
+<h4>✦ Ishita Agarwal (https://github.com/Agarwal-ish) </h4>
+<h4>✦ Krishna Tiwari (https://github.com/Kkri24) </h4>
+<h4>✦ Ashutosh Upadhyay (https://github.com/Ashutosh1020) </h4>
 
 </div>
 
 <br/>
 <div align="center">
 
- <h3>logo :"Number Crunchers "</h3>
+ <h4>logo :"Number Crunchers "</h4>
 
 ![logo](https://)
 
