@@ -19,7 +19,7 @@
 
 <img src="https://github.com/Agarwal-ish/Number-Chunchers/blob/main/logo.jpg" width="300" height="180" alt="Dashboard">
 
- ### 🌐 Streamlit Link : https://streamlit.app/
+ ### 🌐 Streamlit Link : https://number-chunchers-lmweeha8cqinu3pj6tnxym.streamlit.app/
  
  </div>
 
