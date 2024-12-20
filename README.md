@@ -114,14 +114,22 @@ git clone https://github.com/Agarwal-ish/Number-Chunchers.git
 cd Number-Chunchers
 ```
 
+
 <div align="center">
-<h3 align="left">👷Contributors :</h3>
-
-<h4>✦ Ishita Agarwal (https://github.com/Agarwal-ish) </h4>
-<h4>✦ Krishna Tiwari (https://github.com/Kkri24) </h4>
-<h4>✦ Ashutosh Upadhyay (https://github.com/Ashutosh1020) </h4>
-
+  <h3 align="left">👷 Contributors:</h3>
+  <div style="display: flex; justify-content: center; align-items: flex-start; gap: 20px; margin-top: 20px;">
+    <div style="text-align: left;">
+      <h4>✦ <a href="https://github.com/Agarwal-ish" target="_blank">Ishita Agarwal</a></h4>
+      <h4>✦ <a href="https://github.com/Kkri24" target="_blank">Krishna Tiwari</a></h4>
+      <h4>✦ <a href="https://github.com/Ashutosh1020" target="_blank">Ashutosh Upadhyay</a></h4>
+    </div>
+    <div>
+      <img src="https://github.com/Agarwal-ish/Number-Chunchers/blob/main/images/logo2.jpg" width="250" height="250" alt="Filter Data">
+    </div>
+  </div>
 </div>
+
+
 
   # Request  🤗
 <div>
@@ -129,13 +137,12 @@ cd Number-Chunchers
 <li>If you want to contribute to this project then feel free to make a pull request we love to merge your request</li>
  </div>
    
-  <div align="center">
-   <h4>  😊 If you like this project then feel free to give Star🌟</h4>
-   </div>
+ <h4>😊 If you like this project then feel free to give Star🌟</h4>
+ 
   
  ### Feedback / Contributing 🤝
  > Contributions are always welcome! Just raise an issue, and we will discuss it.
-  > If you have any feedback, please reach out to us <a href="mailto: uashutosh309@gmail.com">Team Number Crunchers</a>
+ > If you have any feedback, please reach out to us <a href="mailto: uashutosh309@gmail.com">Team Number Crunchers</a>
 
 
  
