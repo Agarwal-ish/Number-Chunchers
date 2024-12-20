@@ -85,13 +85,17 @@ Streamlit UI: Modularized design for separate analysis sections.
 ### ScreenShots 📷
 
 <h4>» Dashboard </h4>
-<img src="https://github.com/Agarwal-ish/Number-Chunchers/blob/main/images/img7.jpg" width="700" height="300" alt="Dashboard">
+<img src="https://github.com/Agarwal-ish/Number-Chunchers/blob/main/images/img9.jpg" width="700" height="300" alt="Dashboard">
 
 <h4>»Filter Data by Crime Description </h4>
 <img src="https://github.com/Agarwal-ish/Number-Chunchers/blob/main/images/img6.jpg" width="700" height="300" alt="Filter Data">
 
 <h4>» PieChart of Parent Incident Type Distribution </h4> 
 <img src="https://github.com/Agarwal-ish/Number-Chunchers/blob/main/images/img2.jpg" width="700" height="300" alt="Filter Data">
+
+<h4>» Some Code Snippet </h4> 
+<img src="https://github.com/Agarwal-ish/Number-Chunchers/blob/main/images/img10.jpg" width="700" height="300" alt="Filter Data">
+<img src="https://github.com/Agarwal-ish/Number-Chunchers/blob/main/images/img8.jpg" width="700" height="300" alt="Filter Data">
 
  
  ##
