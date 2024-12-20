@@ -68,7 +68,7 @@ Streamlit UI: Modularized design for separate analysis sections.
   </div>
 
  
-### Technology Stack Stack 🛠
+### Technology Stack 🛠
 ![cover](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
 - Pandas
 - Seaborn
