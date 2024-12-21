@@ -52,9 +52,12 @@ Columns:  21
   Data Analysis using Python Libraries
 
   <h3>Directory Structure --></h3>
-  <h4>Video Walkthrough of the project</h4>
+  
+   Video Walkthrough of the project :
+  [▶️ Click here To watch video](https://youtu.be/ZvVeE8slQzQ)
 
-  Video Walkthrough of the codebase
+  Video Walkthrough of the codebase : 
+  [▶️ Click here To watch video](https://youtu.be/ZvVeE8slQzQ)
 
   <h3>Features --></h3>
   ✦ Crime trend analysis over various time periods.<br>
