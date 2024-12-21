@@ -77,10 +77,10 @@ Number-Chunchers
 
   
    Video Walkthrough of the project :
-  [▶️ Click here To watch video](https://youtu.be/ZvVeE8slQzQ)
+  [▶️ Click here To watch the video](https://youtu.be/ZvVeE8slQzQ)
 
   Video Walkthrough of the codebase : 
-  [▶️ Click here To watch video](https://youtu.be/ZvVeE8slQzQ)
+  [▶️ Click here To watch the video](https://youtu.be/ZvVeE8slQzQ)
 
   <h3>Features --></h3>
   ✦ Crime trend analysis over various time periods.<br>
