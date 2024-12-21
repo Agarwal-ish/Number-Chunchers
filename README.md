@@ -52,6 +52,28 @@ Columns:  21
   Data Analysis using Python Libraries
 
   <h3>Directory Structure --></h3>
+
+
+<pre>
+Number-Chunchers
+ ├─ _pycache/
+ │   ├─ PreProcessor.cpython-313.pyc
+ ├─ images/
+ │   ├─ img1.jpg
+ │   ├─ img2.jpg
+ │   ├─ img3.jpg
+ │   ├─ logo2.jpg
+ ├─ .gitattributes
+ ├─ crime_cleaned.csv
+ ├─ crime.csv
+ ├─ logo.jpg
+ ├─ main.py
+ ├─ PreProcessor.py
+ ├─ Project(1).ipynb
+ ├─ README.md
+</pre>
+
+
   
    Video Walkthrough of the project :
   [▶️ Click here To watch video](https://youtu.be/ZvVeE8slQzQ)
