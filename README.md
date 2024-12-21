@@ -77,7 +77,7 @@ Number-Chunchers
 
   
    Video Walkthrough of the project :
-  [▶️ Click here To watch the video](https://youtu.be/ZvVeE8slQzQ)
+  [▶️ Click here To watch the video](https://youtu.be/hyediFNDLa4?si=6mNtCJ02oTELm5jW)
 
   Video Walkthrough of the codebase : 
   [▶️ Click here To watch the video](https://youtu.be/ZvVeE8slQzQ)
