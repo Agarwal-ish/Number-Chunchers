@@ -71,6 +71,7 @@ Number-Chunchers
  ├─ PreProcessor.py
  ├─ Project(1).ipynb
  ├─ README.md
+ ├─ requirements.txt
 </pre>
 
 
